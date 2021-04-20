@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwanth</h1>
-<h3 align="center">A [] interested in AI, and does mobile and web development as a hobby.</h3>
+<h3 align="center">Interested in AI, and does mobile and web development as a hobby.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanth-07&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanth-07" /> </p>
 
