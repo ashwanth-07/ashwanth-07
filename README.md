@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ashwanth</h1>
-<h3 align="center">Interested in AI, and does mobile and web development as a hobby.</h3>
+<h3 align="center">Interested in AI, and does web development as a hobby.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanth-07&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanth-07" /> </p>
 
-- 🔭 I’m currently working on **creating an Instagram clone app**
+- 🔭 I’m currently working on **car rental management system**
 
-- 🌱 I’m currently learning **Flutter and React**
+- 🌱 I’m currently learning **React, Angular and Node**
 
 - 👯 I’m looking to collaborate on **AI and ML related projects**
 
-- 💬 Ask me about **Flutter and React**
+- 💬 Ask me about **React and Node**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
