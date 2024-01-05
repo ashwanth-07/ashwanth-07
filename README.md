@@ -1,27 +1,41 @@
-<h1 align="center">Hi 👋, I'm Ashwanth</h1>
-<h3 align="center">Iam a Software Engineer and Data Analyst</h3>
+# Welcome to Ashwanth's GitHub Repository!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanth-07&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanth-07" /> </p>
+Hello there! I'm Ashwanth Kuppusamy, a passionate and curious software engineer, researcher, and problem-solver. This GitHub repository is a window into my world of coding, experimentation, and discovery. Whether you're a fellow developer, a potential employer, or just a tech enthusiast, you'll find a portfolio of projects that showcase my skills, interests, and dedication to the field of computer science and software engineering.
 
-- I am profecient in React.js, Python, node.js
-  
-- I am a scrum master and I am profecient with the Agile practices
+## About Me
 
-- I am a MERN stack expert
+- 🎓 I'm currently an graduate student at Oregon State University, Corvallis, OR; focusing on improving my combined expertise in AI and Cyberscurity.
+- 💼 Undergraduate student researcher at Amrita Vishwa Vidyapeetham, Coimbatore; where I focused on the fascinating domain of multi-modal deep learning applications at the edge.
+- 💼 Intern at Dhyanalinga Power Solutions, where I've honed my skills in software engineering, data analysis, and web development.
+- 🔭 My research work includes a significant contribution to the field of deep learning, particularly in edge computing, as demonstrated in my paper presented at the 2023 International Conference on Computing Communication and Networking Technologies (ICCCNT).
 
-- I am profecient with all data processing and analysis methods.
+## Core Areas of Expertise
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ashwanth_01" target="new"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ashwanth_01" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ashwanth-kuppusamy-b031b019a/" target="new"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ashwanth-k-b031b019a" height="30" width="40" /></a>
-<a href="https://instagram.com/ashwanth__07" target="new"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ashwanth__07" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ashwanthpro07" target="new"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@ashwanthpro07" height="30" width="40" /></a>
-</p>
+- 🖥️ **Deep Learning & Edge Computing**: Accelerating multi-modal deep learning applications, interfacing neural compute sticks with Raspberry Pi, and optimizing inference loads.
+- 📊 **Data Analysis & Forecasting**: Expertise in regression analysis, correlation analysis, and leveraging machine learning for predictive insights.
+- 💻 **Full Stack Development**: Building dynamic and responsive web applications using the latest technologies and frameworks.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Technical Toolbox
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwanth-07&show_icons=true&locale=en&layout=compact" alt="ashwanth-07" /></p>
+- **Languages**: Python, C, C++, Java, JavaScript, HTML, CSS, Haskell, Scala
+- **Frameworks & Libraries**: React.js, Node.js, Express.js, Flutter, OpenCV, pandas, NumPy, matplotlib, Scikit-learn, Seaborn
+- **Databases & Tools**: Firebase, SQL, MongoDB, XML, JSON, OpenGL, GLS, Cisco packet tracer, Git
+- **Management Skills**: Agile methodologies, Scrum, Problem-solving, Communication, Teamwork
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwanth-07&show_icons=true&locale=en" alt="ashwanth-07" /></p>
+## Featured Projects
+
+1. **Library Management System (Jan. 2022 - Apr. 2022)**: Led a team to develop a comprehensive system for managing library operations, utilizing React.js, Node.js, and Firebase.
+
+2. **Intelligent Crop Recommendation System (Jul. 2021 - Nov. 2021)**: Implemented various machine learning models for soil dataset analysis, achieving 95% accuracy with the Naïve Bayes classifier.
+
+## Research Publications
+
+- **Inference at the Edge for Complex Deep Learning Applications** (ICCCNT 2023): Discussed innovative approaches to manage inference load in edge computing using multiple models and accelerators.
+
+Feel free to browse through my repositories to get a better understanding of my work. I'm always open to collaborate on interesting projects, learn new technologies, and exchange ideas. Let's connect!
+
+---
+
+🔗 [LinkedIn](https://www.linkedin.com/in/ashwanth-kuppusamy-b031b019a/) | 🔗 [Personal Website](https://ashwanth-07.github.io/me/)
+
+Thank you for stopping by, and I hope you find something that piques your interest!
