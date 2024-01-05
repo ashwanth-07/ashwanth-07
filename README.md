@@ -30,12 +30,12 @@ Hello there! I'm Ashwanth Kuppusamy, a passionate and curious software engineer,
 
 ## Research Publications
 
-- [**Inference at the Edge for Complex Deep Learning Applications** (ICCCNT 2023)](https://ieeexplore.ieee.org/document/10306363/): Discussed innovative approaches to manage inference load in edge computing using multiple models and accelerators.
+- <a href="https://ieeexplore.ieee.org/document/10306363/" target="_blank">**Inference at the Edge for Complex Deep Learning Applications**</a>: Discussed innovative approaches to manage inference load in edge computing using multiple models and accelerators.
 
 Feel free to browse through my repositories to get a better understanding of my work. I'm always open to collaborate on interesting projects, learn new technologies, and exchange ideas. Let's connect!
 
 ---
 
-🔗 [LinkedIn](https://www.linkedin.com/in/ashwanth-kuppusamy-b031b019a/) | 🔗 [Personal Website](https://ashwanth-07.github.io/me/)
+🔗 <a href="https://www.linkedin.com/in/ashwanth-kuppusamy-b031b019a/" target="_blank">LinkedIn</a> | 🔗 <a href="https://ashwanth-07.github.io/me/" target="_blank">Personal Website</a> 
 
 Thank you for stopping by, and I hope you find something that piques your interest!
