@@ -47,7 +47,6 @@
 
 ## 🤝 Connect With Me
 - 📧 Email: kuppusaa@oregonstate.edu
-- 📱 Phone: (541) 286-2753
 - 🔗 LinkedIn: [Ashwanth Kuppusamy](https://linkedin.com/in/ashwanth-kuppusamy-b031b019a/)
 - 🌐 Location: Corvallis, OR
 
