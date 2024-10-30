@@ -1,7 +1,7 @@
 # Ashwanth Kuppusamy
 
 ## 👨‍💻 About Me
-Machine Learning Engineer with expertise in computer vision and deep learning, currently pursuing MS in Computer Science at Oregon State University. Experienced in implementing CNN and transformer models for industrial applications, with a focus on improving performance for multiclass semantic segmentation tasks with Long-Tail class distribution. Further, I work on optimization and efficient deployment of these models for real-time inference.
+👋Hi! I am a Machine Learning Engineer with expertise in computer vision and deep learning, currently pursuing MS in Computer Science at Oregon State University. Experienced in implementing CNN and transformer models for industrial applications, with a focus on improving performance for multiclass semantic segmentation tasks with Long-Tail class distribution. Further, I work on optimization and efficient deployment of these models for real-time inference.
 
 - 🎓 MS in Computer Science, Oregon State University (2023-2025)
 - 💼 Machine Learning Engineer at Microtec Inc
