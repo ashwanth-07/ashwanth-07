@@ -12,8 +12,8 @@
 
 ### Machine Learning Engineer | Microtec Inc
 - Implemented CNN and transformer models for multi-class lumber defect segmentation
-- Enhanced model robustness through custom augmentations
-- Optimized GPU memory handling and CUDA kernels
+- Enhanced model robustness for sensor variations through custom augmentations
+- Optimized GPU memory handling and developed custom CUDA kernels
 - Developed effective fine-tuning techniques for domain adaptation
 - Reduced labeling efforts by 75% while improving model performance
 
