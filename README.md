@@ -1,41 +1,55 @@
-# Welcome to Ashwanth's GitHub Repository!
+# Ashwanth Kuppusamy
 
-Hello there! I'm Ashwanth Kuppusamy, a passionate and curious software engineer, researcher, and problem-solver. This GitHub repository is a window into my world of coding, experimentation, and discovery. Whether you're a fellow developer, a potential employer, or just a tech enthusiast, you'll find a portfolio of projects that showcase my skills, interests, and dedication to the field of computer science and software engineering.
+## 👨‍💻 About Me
+Machine Learning Engineer with expertise in computer vision and deep learning, currently pursuing MS in Computer Science at Oregon State University. Experienced in implementing CNN and transformer models for industrial applications, with a focus on improving performance for multiclass semantic segmentation tasks with Long-Tail class distribution. Further, I work on optimization and efficient deployment of these models for real-time inference.
 
-## About Me
+- 🎓 MS in Computer Science, Oregon State University (2023-2025)
+- 💼 Machine Learning Engineer at Microtec Inc
+- 🔬 Graduate Research Assistant at Oregon State University
+- 📚 Published researcher in edge computing and deep learning
 
-- 🎓 I'm currently a graduate student at Oregon State University, Corvallis, OR, focusing on improving my combined expertise in AI and Cybersecurity.
-- 💼 I'm a Graduate Researcher at Oregon State University since Feb. 2024. I have been working on AI based extraction of specifcations for real time systems and LLM based conversion of natural language specifications to logic.
-- 💼 I was an undergraduate student researcher at Amrita Vishwa Vidyapeetham, Coimbatore, where I focused on the fascinating domain of multi-modal deep learning applications at the edge.
-- 🔭 My research work includes a significant contribution to the field of deep learning, particularly in edge computing, as demonstrated in my paper presented at the 2023 International Conference on Computing Communication and Networking Technologies (ICCCNT).
+## 🚀 Professional Experience
 
-## Core Areas of Expertise
+### Machine Learning Engineer | Microtec Inc
+- Implemented CNN and transformer models for multi-class lumber defect segmentation
+- Enhanced model robustness through custom augmentations
+- Optimized GPU memory handling and CUDA kernels
+- Developed effective fine-tuning techniques for domain adaptation
+- Reduced labeling efforts by 75% while improving model performance
 
-- 🖥️ **Deep Learning & Edge Computing**: Computer Vision, Natural Language Processing, Optimizing Deep  Learning workloads for multiple accelerators.
-- 📊 **Data Analysis & Forecasting**: Expertise in regression analysis, correlation analysis, and leveraging machine learning for predictive insights.
-- 💻 **Full Stack Development**: Building dynamic and responsive web applications using the latest technologies and frameworks.
+### Graduate Research Assistant | Oregon State University
+- Developing automated data pipelines for security analysis
+- Training graph neural networks for real-time anomaly detection
+- Converting system logs to provenance graphs
 
-## Technical Toolbox
+## 🛠️ Technical Skills
 
-- **Languages**: Python, C, C++, Java, JavaScript, HTML, CSS, Haskell, Scala
-- **Frameworks & Libraries**: React.js, Node.js, Express.js, Flutter, OpenCV, pandas, NumPy, matplotlib, Scikit-learn, Seaborn
-- **Databases & Tools**: Firebase, SQL, MongoDB, XML, JSON, OpenGL, GLSL, Cisco packet tracer, Git
-- **Management Skills**: Agile methodologies, Scrum, Problem-solving, Communication, Teamwork
+### Languages & Tools
+- **Languages**: Python, C++, C, JavaScript, Java, SQL
+- **ML/DL Frameworks**: PyTorch, CUDA, ONNX, TensorRT, FFCV
+- **Libraries**: OpenCV, NumPy, pandas, matplotlib, Scikit-learn
+- **DevOps**: Git, Docker, Azure, Jenkins
+- **Web Technologies**: React.js, Node.js
 
-## Featured Projects
+## 🔍 Featured Projects
 
-1. **Brain Tumor Segmentation (Mar. 2024)**: Trained 2D and 3D UNet based models to compare performance on multi-class brain tumor segmentation. Implemented 2D and 3D versions of UNet, ResUNet, and Attention ResUNet architectures using PyTorch. Created a novel Mixture of Experts architecture for 2D Attention ResUNet and improved IOU score by 6%.
-2. **Library Management System (Jan. 2022 - Apr. 2022)**: Led a team to develop a comprehensive system for managing library operations, utilizing React.js, Node.js, and Firebase.
-3. **Intelligent Crop Recommendation System (Jul. 2021 - Nov. 2021)**: Implemented various machine learning models for soil dataset analysis, achieving 95% accuracy with the Naïve Bayes classifier.
+### Brain Tumor Segmentation (Mar 2024)
+- Implemented 2D/3D UNet, ResUNet, and Attention-ResUNet architectures
+- Developed Mixture of Experts architecture improving IOU score by 6%
+- Achieved IOU scores of 0.8 (3D ResUNet) and 0.79 (2D Attention-ResUNet)
 
-## Research Publications
+### ResNet-14 CIFAR-10 Classification (Feb 2024)
+- Developed and trained ResNet-14 model in PyTorch
+- Achieved 83.54% accuracy on CIFAR-10 dataset
 
-- <a href="https://ieeexplore.ieee.org/document/10306363/" target="_blank">**Inference at the Edge for Complex Deep Learning Applications**</a>: Discussed innovative approaches to manage inference load in edge computing using multiple models and accelerators.
+## 📝 Publications
+- ["Inference at the Edge for Complex Deep Learning Applications with Multiple Models and Accelerators"](https://ieeexplore.ieee.org/document/10306363/) - ICCCNT 2023
 
-Feel free to browse through my repositories to get a better understanding of my work. I'm always open to collaborate on interesting projects, learn new technologies, and exchange ideas. Let's connect!
+## 🤝 Connect With Me
+- 📧 Email: kuppusaa@oregonstate.edu
+- 📱 Phone: (541) 286-2753
+- 🔗 LinkedIn: [Ashwanth Kuppusamy](https://linkedin.com/in/ashwanth-kuppusamy-b031b019a/)
+- 🌐 Location: Corvallis, OR
 
 ---
-
-🔗 <a href="https://www.linkedin.com/in/ashwanth-kuppusamy-b031b019a/" target="_blank">LinkedIn</a> | 🔗 <a href="https://ashwanth-07.github.io/me/" target="_blank">Personal Website</a> 
-
-Thank you for stopping by, and I hope you find something that piques your interest!
+*Feel free to explore my repositories and reach out for collaborations or discussions about machine learning, computer vision, and software engineering!*
