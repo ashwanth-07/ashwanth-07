@@ -1,29 +1,28 @@
 # Ashwanth Kuppusamy
 
-> Machine Learning Engineer building efficient computer-vision systems — object detection, segmentation, and real-time deployment.
+Machine Learning Engineer building efficient computer-vision systems for object detection, segmentation, and real-time deployment.
 
 ## 👨‍💻 About Me
-MS in Computer Science at Oregon State University and Jr. ML Engineer at Microtec Inc. I work on object detection and segmentation, automated data-labeling pipelines, and optimizing models for edge / real-time deployment.
+MS in Computer Science at Oregon State University and  ML Engineer at Microtec Inc. I work on object detection and segmentation, automated data-labeling pipelines, and optimizing models for edge deployment.
 
 - 🎓 **MS in Computer Science**, Oregon State University (2023–2025)
-- 💼 **Jr. Machine Learning Engineer**, Microtec Inc
-- 🔬 Currently: masked pretraining for hybrid conv-transformer backbones
+- 💼 **Machine Learning Engineer**, Microtec Inc
+
 
 ## 🚀 Experience
 
-### Jr. Machine Learning Engineer | Microtec Inc (2024 – Present)
+### Machine Learning Engineer | Microtec Inc (2024 – Present)
 - Built an assisted annotation tool (PySide6 + SAM) that **doubled labeling throughput** and replaced legacy tooling in production.
 - Architected an automated labeling system (object detectors + SAM), cutting manual labeling effort by **~50%**.
-- Trained a foundational detector on 300k+ images / 20 classes to **87% mAP**, with continual learning (≤3% forgetting).
-- Designed novel loss functions and pretraining methods, **reducing false positives by 80%** and data requirements by 30%.
+- Trained a foundational detector on 300k+ images / 20 classes to **87% mAP**.
+- Designed novel loss functions and pretraining methods, **reducing false positives** and data requirements by 30%.
 
 ### Graduate Research | Oregon State University
-- **Thesis**: image-reconstruction attack pipeline (DiffBIR + ControlNet), improving SSIM by **73%** over a GAN baseline.
+- **Thesis**: Evaluating Thumbnail Preserving Encryption(TPE)'s vulnerability to Transformers. Identified security parameter required to make TPE resilient to SoTA **super-resolution** attacks.
 - **Conv-MAE**: MAE-style masked pretraining for a hybrid conv-transformer (QT-ViT), reaching **80.18%** on ImageNet-100.
 
 ## 📌 Featured Projects
 - [Conv-MAE](https://github.com/ashwanth-07/Conv-MAE) — self-supervised MAE pretraining for hybrid vision backbones.
-- [QT-ViT](https://github.com/ashwanth-07/QT-ViT) — EfficientViT-based hybrid conv-transformer encoder.
 - [Brain-Tumor-Segmentation](https://github.com/ashwanth-07/Brain-Tumor-Segmentation) — comparative 2D vs 3D UNet study on the BraTS dataset.
 - [Network-Anomaly-Detection](https://github.com/ashwanth-07/Network-Anomaly-Detection-using-Autoencoders) — autoencoder-based anomaly detection on NSL-KDD.
 
